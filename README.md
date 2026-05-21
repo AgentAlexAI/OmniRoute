@@ -2,11 +2,15 @@
 
 <img src="./docs/screenshots/MainOmniRoute.png" alt="OmniRoute Dashboard" width="820"/>
 
+<br/>
+
 # 🚀 OmniRoute — The Free AI Gateway
 
 ### Never stop coding. Connect every AI tool to **177 providers** — **50+ free** — through one endpoint.
 
 **Plug Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini. Auto-fallback.**
+<br/>
+
 **RTK + Caveman compression saves 15–95% tokens. Never hit limits.**
 
 <br/>
@@ -17,25 +21,34 @@
 [![14 Strategies](https://img.shields.io/badge/14-Routing_Strategies-0984E3?style=for-the-badge)](#-combos--the-flagship)
 [![$0 to start](https://img.shields.io/badge/%240-To_Start-FDCB6E?style=for-the-badge&logoColor=black)](#-quick-start)
 
-<br/>
+<a href="https://trendshift.io/repositories/23589" target="_blank"><img src="https://trendshift.io/api/badge/repositories/23589" alt="diegosouzapw%2FOmniRoute | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 [![npm](https://img.shields.io/npm/v/omniroute?logo=npm&style=flat-square)](https://www.npmjs.com/package/omniroute)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%E2%89%A522.22.2-brightgreen?style=flat-square)](package.json)
 [![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)](https://github.com/diegosouzapw/OmniRoute)
 
-<a href="https://trendshift.io/repositories/23589" target="_blank"><img src="https://trendshift.io/api/badge/repositories/23589" alt="diegosouzapw%2FOmniRoute | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<div align="center">
 
-[**🚀 Quick Start**](#-quick-start) • [**🎯 Combos**](#-combos--the-flagship) • [**🌐 Providers**](#-177-ai-providers--50-free) • [**🔌 CLI & MCP**](#-full-cli--a2a--mcp) • [**🗜️ Compression**](#%EF%B8%8F-save-1595-tokens--automatically) • [**🌍 Website**](https://omniroute.online) • [**💬 WhatsApp 🌍**](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t) • [**💬 🇧🇷**](https://chat.whatsapp.com/CeGCxdFzqBe5Uki288wOvf)
+[![npm version](https://img.shields.io/npm/v/omniroute?color=cb3837&logo=npm)](https://www.npmjs.com/package/omniroute)
+![NPM Monthly](https://img.shields.io/npm/dm/omniroute?label=npm/month&color=cb3837&logo=npm)
+[![Docker Hub](https://img.shields.io/docker/v/diegosouzapw/omniroute?label=Docker%20Hub&logo=docker&color=2496ED)](https://hub.docker.com/r/diegosouzapw/omniroute)
+![Docker Pulls](https://img.shields.io/docker/pulls/diegosouzapw/omniroute?label=docker%20pulls&logo=docker&color=2496ED)
+![Electron Downloads](https://img.shields.io/github/downloads/diegosouzapw/omniroute/total?style=flat&label=electron%20downloads&logo=electron&color=47848F)
+[![Website](https://img.shields.io/badge/Website-omniroute.online-blue?logo=google-chrome&logoColor=white)](https://omniroute.online)
 
 </div>
 
-<details>
-<summary><b>🌐 Available in 40+ languages · 📊 more badges</b></summary>
-
 <br/>
 
+[**🚀 Quick Start**](#-quick-start) • [**🎯 Combos**](#-combos--the-flagship) • [**🌐 Providers**](#-177-ai-providers--50-free) • [**🔌 CLI & MCP**](#-full-cli--a2a--mcp) • [**🗜️ Compression**](#%EF%B8%8F-save-1595-tokens--automatically) • [**🌍 Website**](https://omniroute.online) • [**💬 WhatsApp 🌍**](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t) • [**💬 WhatsApp 🇧🇷**](https://chat.whatsapp.com/CeGCxdFzqBe5Uki288wOvf)
+
+[💥 The Promise](#-the-promise) • [🤔 Why](#-why-omniroute) • [🏆 What Sets Apart](#-what-sets-omniroute-apart) • [🤖 Compatible CLIs](#-compatible-clis--coding-agents) • [🖥️ Where It Runs](#%EF%B8%8F-where-omniroute-runs--anywhere) • [🔒 Private](#-private--local-first) • [🎬 In Action](#-omniroute-in-action) • [📚 Explore More](#-explore-more) • [📧 Support](#-support--community)
+
+</div>
+
 <div align="center">
+<b>🌐 Available in 40+ languages</b>
 <table>
   <tr>
     <td align="center"><a href="README.md">🇺🇸</a></td>
@@ -79,46 +92,13 @@
 </table>
 </div>
 
-<div align="center">
-
-[![npm version](https://img.shields.io/npm/v/omniroute?color=cb3837&logo=npm)](https://www.npmjs.com/package/omniroute)
-![NPM Monthly](https://img.shields.io/npm/dm/omniroute?label=npm/month&color=cb3837&logo=npm)
-[![Docker Hub](https://img.shields.io/docker/v/diegosouzapw/omniroute?label=Docker%20Hub&logo=docker&color=2496ED)](https://hub.docker.com/r/diegosouzapw/omniroute)
-![Docker Pulls](https://img.shields.io/docker/pulls/diegosouzapw/omniroute?label=docker%20pulls&logo=docker&color=2496ED)
-![Electron Downloads](https://img.shields.io/github/downloads/diegosouzapw/omniroute/total?style=flat&label=electron%20downloads&logo=electron&color=47848F)
-[![Website](https://img.shields.io/badge/Website-omniroute.online-blue?logo=google-chrome&logoColor=white)](https://omniroute.online)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>📑 Table of Contents</b></summary>
-
 <br/>
 
-- [💥 The Promise](#-the-promise)
-- [🤔 Why OmniRoute?](#-why-omniroute)
-- [🎯 Combos — The Flagship](#-combos--the-flagship)
-- [🏆 What Sets OmniRoute Apart](#-what-sets-omniroute-apart)
-- [🤖 Compatible CLIs & Coding Agents](#-compatible-clis--coding-agents)
-- [🌐 177 AI Providers — 50+ Free](#-177-ai-providers--50-free)
-- [🖥️ Where OmniRoute Runs](#%EF%B8%8F-where-omniroute-runs--anywhere)
-- [🔒 Private & Local-First](#-private--local-first)
-- [🔌 Full CLI + A2A & MCP](#-full-cli--a2a--mcp)
-- [🗜️ Save 15–95% Tokens](#%EF%B8%8F-save-1595-tokens--automatically)
-- [⚡ Quick Start](#-quick-start)
-- [🎬 OmniRoute in Action](#-omniroute-in-action)
-- [📚 Explore More](#-explore-more)
-- [📧 Support & Community](#-support--community)
+<div align="center">
 
-</details>
+# 💥 The Promise
 
----
-
-## 💥 The Promise
+</div>
 
 > One endpoint. **177 providers.** Never stop building — and let OmniRoute pick the cheapest one that works.
 
@@ -135,11 +115,16 @@
   </tr>
 </table>
 
----
+<br/>
+<br/>
 
-## 🤔 Why OmniRoute?
+<div align="center">
 
-**Stop juggling 10 dashboards, dead API keys, and surprise bills.**
+# 🤔 Why OmniRoute?
+
+</div>
+
+> Stop juggling 10 dashboards, dead API keys, and surprise bills.
 
 | ❌ The daily pain                                      | ✅ How OmniRoute fixes it                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------- |
@@ -149,6 +134,8 @@
 | 💸 Expensive APIs ($20–50/mo per provider)             | **Cost-optimized routing** — auto-route to the cheapest viable model          |
 | 🧰 Each AI tool wants its own setup                    | **One endpoint, every tool, one dashboard**                                   |
 | 🌍 AI blocked in your country                          | **3-level proxy** + TLS fingerprint stealth — use AI from anywhere            |
+
+<div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -169,9 +156,15 @@
    quota out? ───▶  budget hit? ─▶ budget hit? ─▶ always on
 ```
 
----
+</div>
 
-## 🎯 Combos — The Flagship
+<br/>
+
+<div align="center">
+
+# 🎯 Combos — The Flagship
+
+</div>
 
 > A **combo** is a chain of models OmniRoute routes across **automatically**. Quota runs out, a provider fails, or costs spike — the combo silently slides to the next model. **This is what makes OmniRoute unbreakable.** 🛡️
 
@@ -188,6 +181,8 @@ No combo to create. Set your model to `auto` (or a variant) and OmniRoute builds
 | `auto/offline` | 🔋 Most quota / rate-limit headroom first                      |
 | `auto/smart`   | 🔭 Quality-first + 10% exploration to discover better models   |
 
+<br/>
+
 ### 🔀 Or build your own — 14 routing strategies
 
 | Goal                                    | Strategy / combo                                   |
@@ -200,6 +195,8 @@ No combo to create. Set your model to `auto` (or a variant) and OmniRoute builds
 | 🤖 Just make it smart                   | `auto` (9-factor scoring) · `lkgp` · `reset-aware` |
 
 <sub>The Auto-Combo engine scores every candidate on **9 factors** (health, quota, cost, latency, success rate, freshness…) — see [`docs/routing/AUTO-COMBO.md`](docs/routing/AUTO-COMBO.md).</sub>
+
+<br/>
 
 ### 🧱 Resilience is built in (3 independent layers)
 
@@ -220,9 +217,11 @@ Result: 4 layers of fallback = zero downtime
 
 <sub>📖 [Auto-Combo Engine](docs/routing/AUTO-COMBO.md) · [Resilience Guide](docs/architecture/RESILIENCE_GUIDE.md)</sub>
 
----
+<br/>
 
-## 🏆 What Sets OmniRoute Apart
+<div align="center">
+
+# 🏆 What Sets OmniRoute Apart
 
 | Feature                                | OmniRoute                                                   | Other routers |
 | -------------------------------------- | ----------------------------------------------------------- | ------------- |
@@ -241,11 +240,15 @@ Result: 4 layers of fallback = zero downtime
 
 <sub>📊 Detailed comparison vs LiteLLM, OpenRouter & Portkey → [`docs/comparison/OMNIROUTE_VS_ALTERNATIVES.md`](docs/comparison/OMNIROUTE_VS_ALTERNATIVES.md)</sub>
 
----
+</div>
 
-## 🤖 Compatible CLIs & Coding Agents
+<br/>
 
-_One config — `http://localhost:20128/v1` — and **every** AI IDE or CLI runs on free & low-cost models._
+<div align="center">
+
+# 🤖 Compatible CLIs & Coding Agents
+
+> One config — `http://localhost:20128/v1` — and **every** AI IDE or CLI runs on free & low-cost models.
 
 <div align="center">
 <table>
@@ -274,61 +277,79 @@ _One config — `http://localhost:20128/v1` — and **every** AI IDE or CLI runs
 
 <sub>📖 Per-tool setup for all 16+ tools → [`docs/CLI-TOOLS.md`](docs/CLI-TOOLS.md) · 🧩 OpenCode plugin → [`@omniroute/opencode-provider`](https://www.npmjs.com/package/@omniroute/opencode-provider)</sub>
 
----
+</div>
 
-## 🌐 177 AI Providers — 50+ Free
+<br/>
+
+<div align="center">
+
+# 🌐 177 AI Providers — 50+ Free
+
+</div>
 
 > The most complete catalog of any open-source router: **177 providers**, **50+ with a free tier**, **11 free forever**.
+
+<br/>
 
 ### 🆓 Free Forever — $0, no card
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="160"><b>🟢 Kiro AI</b><br/><sub>Claude Sonnet/Haiku<br/>Unlimited FREE</sub></td>
-    <td align="center" width="160"><b>🟢 Qoder AI</b><br/><sub>Kimi-K2, DeepSeek-R1<br/>Unlimited FREE</sub></td>
-    <td align="center" width="160"><b>🟢 Pollinations</b><br/><sub>GPT-5, Claude, Llama 4<br/>No key needed</sub></td>
-    <td align="center" width="160"><b>🟢 LongCat</b><br/><sub>Flash-Lite<br/>50M tokens/day 🔥</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/AgentRouter-FF6600?style=flat-square" alt="AgentRouter"/><br/><sub>GPT-5, Claude, Gemini<br/>$100 free credits</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Qoder_AI-6366F1?style=flat-square" alt="Qoder AI"/><br/><sub>Kimi-K2, DeepSeek-R1<br/>Unlimited FREE</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Pollinations-10B981?style=flat-square" alt="Pollinations"/><br/><sub>GPT-5, Claude, Llama 4<br/>No key needed</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/LongCat-FF7A00?style=flat-square" alt="LongCat"/><br/><sub>Flash-Lite<br/>50M tokens/day 🔥</sub></td>
   </tr>
   <tr>
-    <td align="center" width="160"><b>🟢 Cloudflare AI</b><br/><sub>50+ models<br/>10K neurons/day</sub></td>
-    <td align="center" width="160"><b>🟢 Gemini CLI</b><br/><sub>gemini-3-flash<br/>180K/mo free</sub></td>
-    <td align="center" width="160"><b>🟢 NVIDIA NIM</b><br/><sub>129 models<br/>~40 RPM free</sub></td>
-    <td align="center" width="160"><b>🟢 Cerebras</b><br/><sub>Qwen3 235B<br/>1M tokens/day</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Cloudflare_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare AI"/><br/><sub>50+ models<br/>10K neurons/day</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini CLI"/><br/><sub>gemini-3-flash<br/>180K/mo free</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM"/><br/><sub>129 models<br/>~40 RPM free</sub></td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Cerebras-F15A29?style=flat-square" alt="Cerebras"/><br/><sub>Qwen3 235B<br/>1M tokens/day</sub></td>
   </tr>
 </table>
 </div>
 
-### 🔐 OAuth (11) · 🔑 API Key (122) · 🏠 Self-Hosted (10)
+<br/>
 
 <div align="center">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistralai&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+### 🔐 OAuth (11) · 🔑 API Key (122) · 🏠 Self-Hosted (10)
 
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
-![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![GLM·Z.AI](https://img.shields.io/badge/GLM_·_Z.AI-2E6BE6?style=for-the-badge)
-![Kimi](https://img.shields.io/badge/Kimi-000000?style=for-the-badge)
-![MiniMax](https://img.shields.io/badge/MiniMax-FF4D4F?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-615CED?style=for-the-badge)
-![Cerebras](https://img.shields.io/badge/Cerebras-F15A29?style=for-the-badge)
-
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge)
-![Together](https://img.shields.io/badge/Together_AI-0F6FFF?style=for-the-badge)
-![Fireworks](https://img.shields.io/badge/Fireworks-5019C5?style=for-the-badge)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39594C?style=for-the-badge)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" alt="DeepSeek"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/xAI_Grok-000000?style=flat-square" alt="xAI Grok"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/GLM_·_Z.AI-2E6BE6?style=flat-square" alt="GLM Z.AI"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Kimi-000000?style=flat-square" alt="Kimi"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/MiniMax-FF4D4F?style=flat-square" alt="MiniMax"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square" alt="Qwen"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cerebras-F15A29?style=flat-square" alt="Cerebras"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" alt="OpenRouter"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Together_AI-0F6FFF?style=flat-square" alt="Together AI"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Fireworks-5019C5?style=flat-square" alt="Fireworks"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cohere-39594C?style=flat-square" alt="Cohere"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -343,9 +364,13 @@ Alibaba · Amazon Q · AssemblyAI · Baidu Qianfan · Baseten · Black Forest La
 
 </details>
 
----
+<br/>
 
-## 🖥️ Where OmniRoute Runs — Anywhere
+<div align="center">
+
+# 🖥️ Where OmniRoute Runs — Anywhere
+
+</div>
 
 > Same app, your machine, your rules. From a global npm install to **your phone** via Termux.
 
@@ -362,9 +387,13 @@ Alibaba · Amazon Q · AssemblyAI · Baidu Qianfan · Baseten · Black Forest La
 
 <sub>📖 [Docker Guide](docs/DOCKER_GUIDE.md) · [Desktop](electron/README.md) · [Termux](docs/TERMUX_GUIDE.md) · [PWA](docs/PWA_GUIDE.md) · [OpenCode](docs/frameworks/OPENCODE.md)</sub>
 
----
+<br/>
 
-## 🔒 Private & Local-First
+<div align="center">
+
+# 🔒 Private & Local-First
+
+</div>
 
 > Your keys, your machine, your data. OmniRoute is a **local proxy** — it never phones home.
 
@@ -376,9 +405,13 @@ Alibaba · Amazon Q · AssemblyAI · Baidu Qianfan · Baseten · Black Forest La
 
 <sub>📖 [Authorization](docs/architecture/AUTHZ_GUIDE.md) · [Guardrails](docs/security/GUARDRAILS.md) · [Compliance](docs/security/COMPLIANCE.md)</sub>
 
----
+<br/>
 
-## 🔌 Full CLI + A2A & MCP
+<div align="center">
+
+# 🔌 Full CLI + A2A & MCP
+
+</div>
 
 > OmniRoute isn't just a server — it's a **full command-line cockpit** with **60+ commands**, plus open agent protocols so an AI agent can drive OmniRoute **by itself**.
 
@@ -415,9 +448,13 @@ claude mcp add-server omniroute --type http --url http://localhost:20128/api/mcp
 
 <sub>📖 [MCP Server](docs/frameworks/MCP-SERVER.md) · [A2A Server](docs/frameworks/A2A-SERVER.md) · [Agent Protocols](docs/frameworks/AGENT_PROTOCOLS_GUIDE.md)</sub>
 
----
+<br/>
 
-## 🗜️ Save 15–95% Tokens — Automatically
+<div align="center">
+
+# 🗜️ Save 15–95% Tokens — Automatically
+
+</div>
 
 > **Why use many token when few token do trick?** Every request passes through OmniRoute's compression pipeline **transparently** — no client changes. It stacks ideas from [RTK](https://github.com/rtk-ai/rtk) and [Caveman](https://github.com/JuliusBrussee/caveman) (⭐ 51K+).
 
@@ -461,9 +498,13 @@ Code blocks, URLs, JSON and structured data are **always protected** by the pres
 
 </details>
 
----
+<br/>
 
-## ⚡ Quick Start
+<div align="center">
+
+# ⚡ Quick Start
+
+</div>
 
 **1) Install & run**
 
@@ -529,9 +570,13 @@ yay -S omniroute-bin && systemctl --user enable --now omniroute.service
 
 </details>
 
----
+<br/>
 
-## 🎬 OmniRoute in Action
+<div align="center">
+
+# 🎬 OmniRoute in Action
+
+</div>
 
 <div align="center">
 <table>
@@ -554,9 +599,13 @@ yay -S omniroute-bin && systemctl --user enable --now omniroute.service
 
 > 🎬 **Made a video about OmniRoute?** Open an [issue](https://github.com/diegosouzapw/OmniRoute/issues/new) or [discussion](https://github.com/diegosouzapw/OmniRoute/discussions) with the link — we'll feature it here.
 
----
+<br/>
 
-## 📚 Explore More
+<div align="center">
+
+# 📚 Explore More
+
+</div>
 
 <details>
 <summary><b>💰 Pricing at a glance & the $0 Free Stack (11 providers)</b></summary>
@@ -692,9 +741,13 @@ Compression: aggressive (~50%) → double your free quota · Cost: $0/mo
 
 </details>
 
----
+<br/>
 
-## 📧 Support & Community
+<div align="center">
+
+# 📧 Support & Community
+
+</div>
 
 > 💬 **Join our WhatsApp groups** — get help, share tips, stay updated:
 > · [**🌍 International**](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t) · [**🇧🇷 Português**](https://chat.whatsapp.com/CeGCxdFzqBe5Uki288wOvf)

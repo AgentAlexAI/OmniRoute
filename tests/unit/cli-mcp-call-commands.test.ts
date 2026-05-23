@@ -105,7 +105,9 @@ test("mcp tools list busca /api/mcp/tools", async () => {
   });
 
   globalThis.fetch = origFetch;
-  const parsed = JSON.parse(out);
+  // Filter potential binary noise from module loading to extract JSON
+  const jsonMatch = out.match(/\[[\s\S]*\]/);
+  const parsed = JSON.parse(jsonMatch ? jsonMatch[0] : out);
   assert.ok(Array.isArray(parsed));
   assert.equal(parsed.length, 2);
 });
